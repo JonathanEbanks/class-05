@@ -32,6 +32,8 @@ Some other helpful resources to skim over are:
 
 3. Write an example of a CSS rule that would give all <p> elements red text.
 
-    p {
+    - p {
+
         color: red;
+        
     }
