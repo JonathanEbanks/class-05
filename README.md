@@ -18,11 +18,11 @@ Some other helpful resources to skim over are:
 
 ## Q&A
 
-### 1. What is the purpose of CSS?
+1. What is the purpose of CSS?
 
     - The purpose of CSS is for specifying how documents are presented to users - how they are styled, laid out, etc.
 
-### 2. What are the three ways to insert CSS into your project?
+2. What are the three ways to insert CSS into your project?
 
     - External CSS
 
@@ -30,7 +30,7 @@ Some other helpful resources to skim over are:
 
     - Inline CSS
 
-### 3. Write an example of a CSS rule that would give all <p> elements red text.
+3. Write an example of a CSS rule that would give all <p> elements red text.
 
     p {
         color: red;
