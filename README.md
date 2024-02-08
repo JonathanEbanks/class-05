@@ -34,6 +34,6 @@ Some other helpful resources to skim over are:
 
     - p {
 
-        color: red;
-        
+         color: red;
+
     }
